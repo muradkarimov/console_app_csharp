@@ -6,3 +6,9 @@
 
 2.Complex Creature
 ![Complex Creature](complex_creature.png)
+
+3. Conversions
+
+4. Convert From Celsius to Fahrenheit
+
+5. Calculate average of three numbers
